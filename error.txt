@@ -1,0 +1,9 @@
+Hi there,
+
+The robot has encountered an exception at the runtime. Here you can find some details:
+
+{0}
+
+This was an automated message. Please do not reply!
+
+Have a nice day!
